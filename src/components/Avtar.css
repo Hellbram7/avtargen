@@ -1,0 +1,19 @@
+.Avtar {
+    width: 22%;
+    height: auto;    background-color: purple;
+    padding: 10px;
+    display: block;
+    border-radius: 15px;
+    box-shadow: 0 0 5px 3px grey;
+    margin-left: 38%;
+    margin-top: 6%;
+
+}
+.Avtar h2 {
+    height: 17px;
+    font-size: 30px;
+    margin-top: 0;
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+}

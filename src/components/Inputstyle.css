@@ -1,0 +1,29 @@
+.inputbox {
+    padding: 3px;
+    padding-right: 5%;
+    border: 2px solid purple;
+    padding-left: 5px;
+    font-family: cursive;
+    color: red;
+    font-size: medium;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px  slategray;
+    background-color: lightblue;
+}
+.inputtxt {
+    font-family: cursive;
+    font-size: 22px;
+    padding: 0;
+    margin-bottom: 15px;
+}
+.incomp {
+    text-align: center;
+}
+.Button {
+    margin-left: 10px;
+    padding: 4px 15px;
+    border-radius: 30px;
+    background-color: purple;
+    color: white;
+    box-shadow: 0 0 5px 2px grey;
+}
