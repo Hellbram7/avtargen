@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51c6d3e806290af4d3273bda95ebe461",
+    "revision": "305d8ab9bd3f9d06d328d13ecd0c1cf9",
     "url": "/avtargen/index.html"
   },
   {
-    "revision": "804ef22fdc94912e6782",
-    "url": "/avtargen/static/css/main.610f38e2.chunk.css"
+    "revision": "4e2a88d71e35fa09b4b6",
+    "url": "/avtargen/static/css/main.8078a0f7.chunk.css"
   },
   {
     "revision": "7c68d9c29ecc2dbc16cc",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/avtargen/static/js/2.d4b1c26b.chunk.js.LICENSE"
   },
   {
-    "revision": "804ef22fdc94912e6782",
+    "revision": "4e2a88d71e35fa09b4b6",
     "url": "/avtargen/static/js/main.daf12aef.chunk.js"
   },
   {
