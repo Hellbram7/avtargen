@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/avtargen/static/css/main.610f38e2.chunk.css",
+    "main.js": "/avtargen/static/js/main.daf12aef.chunk.js",
+    "main.js.map": "/avtargen/static/js/main.daf12aef.chunk.js.map",
+    "runtime-main.js": "/avtargen/static/js/runtime-main.3b7694b1.js",
+    "runtime-main.js.map": "/avtargen/static/js/runtime-main.3b7694b1.js.map",
+    "static/js/2.d4b1c26b.chunk.js": "/avtargen/static/js/2.d4b1c26b.chunk.js",
+    "static/js/2.d4b1c26b.chunk.js.map": "/avtargen/static/js/2.d4b1c26b.chunk.js.map",
+    "index.html": "/avtargen/index.html",
+    "precache-manifest.fa6cc8329d7ade3358cf32a5874aa2e9.js": "/avtargen/precache-manifest.fa6cc8329d7ade3358cf32a5874aa2e9.js",
+    "service-worker.js": "/avtargen/service-worker.js",
+    "static/css/main.610f38e2.chunk.css.map": "/avtargen/static/css/main.610f38e2.chunk.css.map",
+    "static/js/2.d4b1c26b.chunk.js.LICENSE": "/avtargen/static/js/2.d4b1c26b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b7694b1.js",
+    "static/js/2.d4b1c26b.chunk.js",
+    "static/css/main.610f38e2.chunk.css",
+    "static/js/main.daf12aef.chunk.js"
+  ]
+}
